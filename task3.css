@@ -1,0 +1,13 @@
+.myc {
+  height: 100vh;
+}
+
+.myimg {
+  background-image: url("https://picsum.photos/1400");
+}
+
+.social {
+  top: 150px;
+  right: 0px;
+  padding: 10px;
+}
